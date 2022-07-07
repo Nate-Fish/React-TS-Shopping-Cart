@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Vest",
+    "price": 99,
+    "imgUrl": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw05db0e2f/images/hi-res/25882_STH.jpg?sw=350&sh=350&sfrm=png&q=95&bgcolor=f5f5f5"
+  },
+  {
+    "id": 2,
+    "name": "Blue-Light Glasses",
+    "price": 39.95,
+    "imgUrl": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100684620-847__1&recipeName=350"
+  },
+  {
+    "id": 3,
+    "name": "Ping-Pong Paddle",
+    "price": 4.99,
+    "imgUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0f87140a-83cc-461c-b179-d43be65a1a7f.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Drinkable Meal",
+    "price": 5.79,
+    "imgUrl": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1634527-847__1&recipeName=350"
+  }
+]
